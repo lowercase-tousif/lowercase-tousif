@@ -14,7 +14,9 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<style>
+<html>
+  <head>
+    <style>
   @import url(https://fonts.googleapis.com/css?family=Cedarville+Cursive:regular);
   .text {
     color: white;
@@ -36,6 +38,8 @@
     }
   }
 </style>
+  </head>
+
 <body>
   <img
     src="https://gifsec.com/wp-content/uploads/2022/11/matching-anime-gif-10.gif"
@@ -47,3 +51,4 @@
   <br />
   <button class="text">ily nondi</button>
 </body>
+</html>
