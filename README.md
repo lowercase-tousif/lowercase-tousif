@@ -26,5 +26,3 @@
     class="text"
     style="color: pink;font-size: 10px;cursor: pointer;">ily nondi</i>
 </body>
-
-[![Butterflybadge](https://em-content.zobj.net/source/apple/354/butterfly_1f98b.png)](ilynondi)
