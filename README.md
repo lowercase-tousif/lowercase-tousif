@@ -1,4 +1,3 @@
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,7 +17,9 @@
 <img
   src="https://gifsec.com/wp-content/uploads/2022/11/matching-anime-gif-10.gif"
   alt="img"
+  style="border-radius: 5px"
+  width="400px"
 />
 <br />
 <br />
-<i style="color: dimgray; font-size: 12px; border-radius:5px;" width="400px">ily nondi</i>
+<i style="color: dimgray; font-size: 8px">ily nondi</i>
