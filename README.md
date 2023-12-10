@@ -30,19 +30,6 @@
       cursor: pointer;
       font-style: italic;
       background: linear-gradient(45deg, purple, black);
-      animation: animate 4s ease-in;
-      border-radius: 4px;
-      padding: 5px 20px;
-      border: 0;
-      background-size: 400% 400%;
-      @keyframes animate {
-        0% {
-          background-position: 0 50%;
-        }
-        50% {
-          background-position: 100% 50%;
-        }
-      }
     "
   >
     ily nondi
