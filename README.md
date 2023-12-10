@@ -14,12 +14,36 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img
-  src="https://gifsec.com/wp-content/uploads/2022/11/matching-anime-gif-10.gif"
-  alt="img"
-  style="border-radius: 5px"
-  width="400px"
-/>
-<br />
-<br />
-<i style="color: dimgray; font-size: 8px">ily nondi</i>
+<style>
+  @import url(https://fonts.googleapis.com/css?family=Cedarville+Cursive:regular);
+  .text {
+    color: white;
+    font-family: "CedarVille Cursive", sans-serif;
+    font-size: 25px;
+    background: linear-gradient(45deg, purple, black);
+    animation: animate 4s ease-in;
+    border-radius: 4px;
+    padding: 5px 20px;
+    border: 0;
+    background-size: 400% 400%;
+    @keyframes animate {
+      0% {
+        background-position: 0 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+    }
+  }
+</style>
+<body>
+  <img
+    src="https://gifsec.com/wp-content/uploads/2022/11/matching-anime-gif-10.gif"
+    alt="img"
+    style="border-radius: 5px"
+    width="400px"
+  />
+  <br />
+  <br />
+  <button class="text">ily nondi</button>
+</body>
