@@ -25,10 +25,9 @@
   <i
     class="text"
     style="
-      color: white;
+      color: purple;
       font-size: 10px;
       cursor: pointer;
-      background: linear-gradient(45deg, purple, black);
     "
   >
     ily nondi
