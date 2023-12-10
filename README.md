@@ -21,4 +21,4 @@
 />
 <br />
 <br />
-<i style="color: dimgray; font-size: 12px">ily nondi</i>
+<i style="color: dimgray; font-size: 12px" width="500px">ily nondi</i>
