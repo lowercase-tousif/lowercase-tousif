@@ -24,12 +24,5 @@
 
   <i
     class="text"
-    style="
-      color: purple;
-      font-size: 10px;
-      cursor: pointer;
-    "
-  >
-    ily nondi
-  </i>
+    style="color: purple;font-size: 10px;cursor: pointer;">ily nondi</i>
 </body>
