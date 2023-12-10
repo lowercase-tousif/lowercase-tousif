@@ -22,16 +22,15 @@
     width="400px"
   />
 
-  <button
+  <i
     class="text"
     style="
       color: white;
       font-size: 10px;
       cursor: pointer;
-      font-style: italic;
       background: linear-gradient(45deg, purple, black);
     "
   >
     ily nondi
-  </button>
+  </i>
 </body>
