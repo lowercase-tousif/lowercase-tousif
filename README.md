@@ -15,7 +15,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thedarkness-bd&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thedarkness-bd&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <body>
   <img
