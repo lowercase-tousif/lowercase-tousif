@@ -1,9 +1,6 @@
 # 🙈 About Me:
 I am Just a random All in one 🐣
 
- [![](https://visitcount.itsvg.in/api?id=Inverse-Tousif&icon=3&color=12)](https://visitcount.itsvg.in)
-
-
 ## 🎗️ Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tousif.tasrik) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/xxtra_curricular_/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/TousifTasrik/) 
 
