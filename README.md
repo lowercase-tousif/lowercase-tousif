@@ -1,9 +1,8 @@
 ## 🙈 About Me:
 🧠 Just a curious all-rounder — loves to explore everything! 💫
 
----
 
-### 🚀 Competitive Programming Profiles:
+## 🚀 Competitive Programming Profiles:
 <p>
   <a href="https://codeforces.com/profile/tushu06" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -15,7 +14,7 @@
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 #### 🔤 Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -23,7 +22,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🌐 Web Dev
+#### 🌐 WebDevelopment
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -38,8 +37,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
 
-<img src="https://gifsec.com/wp-content/uploads/2022/11/matching-anime-gif-10.gif" width="300px" style="border-radius: 8px;" alt="Anime" />
+<img src="https://gifsec.com/wp-content/uploads/2022/11/matching-anime-gif-10.gif" width="400px" style="border-radius: 8px;" alt="Anime" />
 <br>
 <i style="color:pink;font-size:10px;">ily nondi 💖</i>
